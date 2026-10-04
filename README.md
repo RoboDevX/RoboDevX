@@ -30,29 +30,30 @@ My work and personal research are centered around improving how security teams i
 
 ## Featured Security Engineering Projects
 
+### [Aegis — AI SOC](https://github.com/RoboDevX/Aegis-AI-SOC)
+
+Experimental AI-powered security operations environment for investigating security alerts, enriching threat intelligence, analyzing evidence, and evaluating secure agentic workflows.
+
+Aegis explores both sides of AI in cybersecurity: **using AI to support SOC investigations** and **enforcing deterministic security controls around the AI analyst itself.**
+
+`Python` · `AI Security` · `Security Operations` · `Threat Intelligence` · `Detection Engineering` · `Agentic AI`
+
 ### [Machine Learning Network Anomaly Detection](https://github.com/RoboDevX/ML-Network-Anomaly-Detection)
 
 Behavioral network anomaly detection using Isolation Forest, rolling-window feature engineering, and real-time security visualization.
 
 `Python` · `Machine Learning` · `Isolation Forest` · `Network Security` · `Detection Engineering`
 
-### Detection Engineering Lab
+## Research & Project Roadmap
 
+**Detection Engineering**  
 Developing and testing detections across cloud, endpoint, and network telemetry with an emphasis on detection logic, ATT&CK mapping, investigation, and false-positive analysis.
 
-`Sigma` · `YARA` · `MITRE ATT&CK` · `Python` · `Detection-as-Code`
-
-### Threat Intelligence Automation
-
+**Threat Intelligence Automation**  
 Exploring automated enrichment and analysis of threat indicators to turn raw intelligence into actionable security context.
 
-`Python` · `REST APIs` · `OSINT` · `Threat Intelligence` · `MITRE ATT&CK`
-
-### Exposure & Application Security
-
+**Exposure & Application Security**  
 Exploring risk-based approaches to vulnerability prioritization, attack surface analysis, application security, and exposure management.
-
-`Python` · `Vulnerability Management` · `AppSec` · `Risk Prioritization`
 
 ## Currently Exploring
 
@@ -85,6 +86,6 @@ Tenable · CrowdStrike · Cortex Xpanse · Uptycs
 
 ## Connect
 
-**LinkedIn:** Robert Picasio Jr.
+[**LinkedIn — Robert Picasio Jr.**](https://www.linkedin.com/in/robert-picasio-jr-671357238/)
 
 I'm particularly interested in the intersection of **AI, security engineering, and threat detection** and in building practical systems that help defenders better understand and reduce cyber risk.
