@@ -30,11 +30,11 @@ My work and personal research are centered around improving how security teams i
 
 ## Featured Security Engineering Projects
 
-### Machine Learning Intrusion Detection
+### [Machine Learning Network Anomaly Detection](https://github.com/RoboDevX/ML-Network-Anomaly-Detection)
 
-Real-time network anomaly detection using machine learning and behavioral network features.
+Behavioral network anomaly detection using Isolation Forest, rolling-window feature engineering, and real-time security visualization.
 
-`Python` · `Machine Learning` · `Isolation Forest` · `Network Security` · `Anomaly Detection`
+`Python` · `Machine Learning` · `Isolation Forest` · `Network Security` · `Detection Engineering`
 
 ### Detection Engineering Lab
 
