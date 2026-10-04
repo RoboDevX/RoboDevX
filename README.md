@@ -1,6 +1,6 @@
 # Robert Picasio Jr.
 
-**Cybersecurity Engineer | AI Security · Detection Engineering · Threat Intelligence · Threat Exposure Management**
+**AI Security · Detection Engineering · Threat Intelligence · Threat Exposure Management**
 
 Cybersecurity engineer focused on building practical systems that help security teams investigate threats, detect malicious behavior, and reduce risk. I'm especially interested in the intersection of **security engineering, AI, and automation**.
 
